@@ -30,5 +30,5 @@ The contributors to this project are Me, Myself, and I.
 These are test instructions for the project
 
 ## Questions
-For questions or concerns about this project, please contact zwltons@gmail.com.
+For questions or concerns about this project, please contact zwlyons@gmail.com.
 GitHub: [abstractl0gic](https://github.com/abstractl0gic)
